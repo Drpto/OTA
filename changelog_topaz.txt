@@ -4,6 +4,22 @@ Device: Xiaomi Redmi Note 12
 Device maintainer: hefatss
 
 ====================
+     20-02-2024
+====================
+- Sync Latest Source
+- Switch Vendor to OSS Based
+- Import Xiaomi Perf Changes from AOSPA
+- Configure zram based on xiaomi sm6225-common
+- Enable the pre-rendering feature
+- Disable vsync for CPU rendered Apps
+- Rework Overlay QSSI
+- Add blkio tuning from sunfish
+- Update IMS system from eqs T1TBS33.32-8-9-7-2
+- Partially import xiaomi parts from raphael & sm8350-common
+- More Improvement & Stability
+
+
+====================
      03-11-2023
 ====================
 - Sync Latest Source
