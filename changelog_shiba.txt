@@ -1,9 +1,8 @@
 Build type: Monthly
-Device: Pixel 8 Pro (husky)
+Device: Pixel 8 (shiba)
 Device maintainer: OscarM
 
 ====================
     06-03-2024
 ====================
 -Initial Alpha 2.1 Release
-

@@ -4,6 +4,42 @@ Device: Xiaomi 11T Pro
 Device maintainer: Cr1st1anlp
 
 ====================
+     15-05-2024
+====================
+- Fixed OTT apps like Netflix issue with Widevine L1 with LOS kernel
+- VILI Vendor blobs updated to VILI EEA V816.0.1.0.UKDEUXM
+- COMMON Vendor blobs updated to Haydn V816.0.1.0.UKKCNXM (HyperOS)
+- Update Ksu to the latest version
+- Adjust Color Modes from stock
+- Update Basic call recorder
+- Better RAM management
+- dex2oat64 on sm8350
+- Disable Skia tracing by default
+- Build with Lawnchair
+- Other Fixes under the hood
+
+====================
+     23-03-2024
+====================
+- Fix Volte 
+- Switch to Dolby Manager
+- Update Ksu to the latest version
+- Enable config avoidGfxAccel
+- Update adreno blobs from AOSPA/CLO
+- Add Basic call recorder
+- Other Fixes under the hood
+
+Known issues:
+
+- Video playback on netflix and other ott apps
+
+Temporary solutions:
+
+  1) Flash Kangaroox or other kernel (recommended)
+
+  2) Delete vendor/lib64/liboemcrypto.so using a root explorer and reboot (will drop widevine to L3)
+
+====================
      15-02-2024
 ====================
 - Initial Official A14 Build

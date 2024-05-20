@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "MrTopiA",
+			"oem": "Redmi",
+			"device": "Poco X4 Pro",
+			"filename": "AlphaDroid-14.0-20240321-veux-gapps-v2.0.zip",
+			"download": "https://sourceforge.net/projects/alphadroid-project/files/veux/AlphaDroid-14.0-20240321-veux-gapps-v2.0.zip/download",
+			"timestamp": 1711020091,
+			"md5": "b6930943e8a805c27e6d0d3c4b441149",
+			"sha256": "4c0ccfab68b07b6caa770f64c9af43ccc1107248fc4b8b150b078354632cabbc",
+			"size": 1863997717,
+			"version": "2.0",
+			"buildtype": "gapps",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/MrTopiA",
+			"dt": "https://github.com/AlphaDroid-devices/device_xiaomi_veux",
+			"common-dt": "",
+			"kernel": "https://github.com/AlphaDroid-devices/kernel_xiaomi_sm6375"
+		}
+	]
+}
